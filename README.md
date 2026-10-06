@@ -1,22 +1,3 @@
-<!--
-  蓝调个人主页模板
-  填写指引：把所有【】中的占位内容替换成你自己的信息
-  1. 顶部终端窗口：可直接改代码块里的文字
-  2. 技术栈图标：到 skillicons.dev 挑选后复制图标代码
-  3. 不需要的板块整段删掉即可
--->
-
-<div align="center">
-
-```shell
-●  ●●   felix — zsh
-
-felix@discpu:~ % whoami
-felix
-felix@discpu:~ % █
-```
-
-</div>
 
 <p align="center">
   <a href="https://github.com/Felixer-DisCPU">
@@ -103,6 +84,3 @@ felix@discpu:~ % █
   我的微信……就先不说了
 </p>
 
-<p align="center">
-  <sub>由 <a href="https://github.com/Felixer-DisCPU">felix</a> 用 ❤ 和蓝色调构建</sub>
-</p>
