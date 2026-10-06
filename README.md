@@ -1,14 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Felixer-DisCPU">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=28&duration=3000&center=true&vCenter=true&width=720&lines=printf%28%22Hello%2CI%27m%20Felixer%21%22%29%3B&color=569CD6&repeat=true" alt="Typing" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Felixer-DisCPU"><img src="https://img.shields.io/badge/Profile-Felixer--DisCPU-4EC9B0?style=flat&logo=github" alt="Profile" /></a>
-  <a href="https://github.com/Felixer-DisCPU"><img src="https://img.shields.io/badge/Beijing%2C%20China-569CD6?style=flat&logo=googlemaps" alt="Location" /></a>
-  <a href="mailto:heresfelix@outlook.com"><img src="https://img.shields.io/badge/Email-herefelix%40outlook.com-9CDCFE?style=flat&logo=mail&logoColor=1F1F1F" alt="Email" /></a>
+  <img src="https://raw.githubusercontent.com/Felixer-DisCPU/Felixer-DisCPU/main/.github/assets/cover.svg" alt="Cover" width="100%" />
 </p>
 
 ---
