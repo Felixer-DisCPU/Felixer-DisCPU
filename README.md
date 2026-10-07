@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Felixer-DisCPU/Felixer-DisCPU/main/.github/assets/cover.svg" alt="Cover" width="100%" />
 </p>
+<p align="center"><code>✨Welcome to Felixer's Page</code></p>
 
 ---
 
