@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Felixer-DisCPU/Felixer-DisCPU/main/.github/assets/cover.svg" alt="Cover" width="100%" />
 </p>
-<h3>
+<h2>
   <p align="center">
-    <code>✨Welcome to Zetaloop🦊</code>
+    <code>✨Welcome to Felixer's Page✨</code>
   </p>
-</h3>
+</h2>
 
 ---
 
